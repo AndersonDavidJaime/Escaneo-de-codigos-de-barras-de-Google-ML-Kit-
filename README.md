@@ -19,3 +19,16 @@ Codigos QR con enlaces
 
 ![WhatsApp Image 2023-09-03 at 10 29 11 AM](https://github.com/AndersonDavidJaime/Escaneo-de-codigos-de-barras-de-Google-ML-Kit-/assets/124792573/e0576d7d-8c85-4201-a0ee-936e51794a7e)
 
+
+
+     **CODIGOS DE BARRAS TIPO CODE 39**
+
+![WhatsApp Image 2023-09-03 at 9 40 04 AM](https://github.com/AndersonDavidJaime/Escaneo-de-codigos-de-barras-de-Google-ML-Kit-/assets/124792573/85e28ebc-073f-4f39-91d3-050d212a238b)
+
+![WhatsApp Image 2023-09-03 at 10 21 32 AM](https://github.com/AndersonDavidJaime/Escaneo-de-codigos-de-barras-de-Google-ML-Kit-/assets/124792573/13312368-4d37-4ac0-9444-9948fde04c1d)
+
+
+
+
+     
+    
