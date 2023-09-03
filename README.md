@@ -29,10 +29,26 @@ Codigos QR con enlaces
 
 
 
-     **CODIGOS DE BARRAS TIPO CODE 128**
+                                               **CODIGOS DE BARRAS TIPO CODE 128**
 ![WhatsApp Image 2023-09-03 at 10 35 09 AM](https://github.com/AndersonDavidJaime/Escaneo-de-codigos-de-barras-de-Google-ML-Kit-/assets/124792573/730748b6-3dac-4292-83cd-3c0c11708aae)
 
 ![WhatsApp Image 2023-09-03 at 10 36 39 AM](https://github.com/AndersonDavidJaime/Escaneo-de-codigos-de-barras-de-Google-ML-Kit-/assets/124792573/eb28fc1f-043f-440f-a428-4d73f9bba364)
+
+
+                                                 **CODIGOS DE BARRAS TIPO CODE 93
+
+
+
+![WhatsApp Image 2023-09-03 at 10 38 45 AM (1)](https://github.com/AndersonDavidJaime/Escaneo-de-codigos-de-barras-de-Google-ML-Kit-/assets/124792573/eb9efd6f-09d3-4493-a15f-5df5f1c3908b)
+
+
+![WhatsApp Image 2023-09-03 at 10 40 43 AM (1)](https://github.com/AndersonDavidJaime/Escaneo-de-codigos-de-barras-de-Google-ML-Kit-/assets/124792573/8eccba9e-642b-4627-8bf7-5ba042d5f575)
+
+
+
+                                                 
+
+  
 
 
 
