@@ -5,7 +5,7 @@ Codigos QR con enlaces
 
 
 
-coidgos QR con data
+                               **coidgos QR con data**
 
 ![WhatsApp Image 2023-09-03 at 10 20 30 AM (1)](https://github.com/AndersonDavidJaime/Escaneo-de-codigos-de-barras-de-Google-ML-Kit-/assets/124792573/30feb93f-6526-4d3d-bd59-45fbd96cf251)
 
